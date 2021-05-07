@@ -1,2 +1,2 @@
-# Animated-Login-Form
-This is an Animated Login Form
+## General Info
+This is an Animated Login Form made using HTML & CSS
